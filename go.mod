@@ -1,4 +1,4 @@
-module github.com/dolmen-go/hid
+module github.com/alpha-omega-labs/hid
 
 go 1.17
 
